@@ -9,6 +9,8 @@
 
 一个菜单栏小工具。单文件 Swift，约 480 行，只用 AppKit 和 CoreGraphics，没有第三方依赖，不需要 Xcode。
 
+> **[在线介绍页 →](https://leihahaha12138-source.github.io/mac-keep-awake/)**
+
 ---
 
 - [为什么需要它](#为什么需要它)
