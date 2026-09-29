@@ -1,0 +1,8 @@
+# 编译产物
+build/
+*.app/
+*.dSYM/
+
+# macOS
+.DS_Store
+**/.DS_Store
